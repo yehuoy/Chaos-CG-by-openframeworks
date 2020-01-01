@@ -1,5 +1,4 @@
 # Chaos-CG-by-openframeworks-1-1
 
 ## results
-- 100
-![100](./screenshot/screenshot_100.png "サンプル")
+![100](./screenshot/screenshot_100.png)
