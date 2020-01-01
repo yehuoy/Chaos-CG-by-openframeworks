@@ -22,7 +22,6 @@ class ofApp : public ofBaseApp{
 		void gotMessage(ofMessage msg);
 		
         // variables
-        long count;
         int i, col, u0, v0, slx, sly, u, v;
         double x, y, x0, y0;
         ofColor bgColor;

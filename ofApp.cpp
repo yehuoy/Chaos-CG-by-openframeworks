@@ -4,7 +4,6 @@
 void ofApp::setup(){
     ofSetBackgroundAuto(false);
     // init variables
-    count = 0;
     i = 0, col = 1, u0 = ofGetWidth()/2, v0 = ofGetHeight()/2, slx = 8 * 2, sly = 8 * 2;
     x0 = 4.0, y0 = 0.0;
     bgColor = ofGetBackgroundColor();
